@@ -1,0 +1,258 @@
+*{
+    padding: 0px;
+    margin: 0px;
+box-sizing: border-box;
+}
+.image img{
+    height: 30px;
+}
+.tags {
+    text-align: center;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+}
+ul.ulli {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 50px;
+    font-weight: 1000;
+    font-size: 18px;
+}
+ .ulli a {
+    color: black;
+    text-decoration: none;
+}
+button.btn {
+    background-color: #4e0fea;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+}
+button.devbtn {
+    color: white;
+    background: #4e0fea;
+    border: none;
+    padding: 4px 24px;
+}
+.col-6.content {
+    margin-top: 45px;
+    font-size: 19px;
+    font-family: auto;
+}
+.container.containerone {
+    padding: 0px 60px;
+}
+h1.h1tag {
+    font-weight: bold;
+}
+.tagcode {
+    text-align: center;
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 23px;
+}
+.imageican img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    max-width: 202px;
+    max-height: 70px;
+
+}
+.imageican {
+    margin-left: 42%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 30px;
+    height: auto;
+    max-width: 219px;
+
+}
+.meet {
+    text-align: center;
+    margin: 40px;
+}
+.meet h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+.image-title {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    margin: auto;
+}
+.image-title img{
+    width: 100%;
+    height: 100%;
+}
+.item {
+    height: 422px;
+    width: 330px;
+    border-radius: 24px;
+    box-shadow: 5px 10px 10px;
+    border: 1px solid #00000038;
+    margin: 20px 58px;
+    padding: 14px;
+}
+
+.background{
+    background-image: url("https://www.codebase.com/wp-content/uploads/2022/04/our-commitment-bg-1.jpeg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: top;
+
+    color: white;  
+}
+.background h1{
+  
+        text-align: center;
+        padding: 30px;
+    font-size: 50px;
+}
+
+.boximage
+{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+.boximage img
+{
+    width: 100%;
+    object-fit: cover;
+ padding: 6px;
+}
+
+.box {
+    width: 400px;
+    height: 300px;
+    background-color: #0000003d;
+    border-radius: 15px;
+    text-align: center;
+    padding: 40px;
+    margin: 28px;
+}
+.mainbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 40px;
+}
+.tags h5{
+        margin: 10px 36%;
+} 
+.talent
+{
+    width: 100%;
+    height: 500px;
+    background-color: #f1f1f1;
+}
+.top-talent h1 {
+    text-align: center;
+    padding: 20px;
+    color: black;
+    font-size: 46px;
+    font-weight: 700;
+}
+
+.image-dummy img {
+    height: 40px;
+}
+.main_through {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+.through h1 {
+    color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.number{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    color: blue;
+    border: 7px solid;
+    padding: 5px 25px;
+}
+.theright{
+    margin: 34px 27px;
+}
+.join-usmain{
+    width: 100%;
+    height: 250px;
+    background-color:#5f25f0;
+}
+.join-us h1{
+color: white;
+text-align: center;
+padding: 40px 0px;
+font-size: 34px;
+}
+.btntow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}
+.btntow button {
+    padding: 5px 19px;
+    color: white;
+    background: #00008b33;
+    border: none;
+}
+.apply {
+    padding: 5px 19px;
+    color: white;
+    border: 1px solid white !important;
+    background-color:#5f25f0 !important
+}
+.footer {
+    background: #4E0FEA !important;
+    height: 300px;
+    width: 100%;
+}
+.footer-image img {
+    height: 100px;
+    margin-left: 10%;
+}
+.boder-ilne {
+    border: 1px solid #ffffff85 !important;
+    margin: 0px 110px;
+}
+.ican_lineprent {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    gap: 25%;
+}
+.page_ilne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+}
+.ican_tag span {
+    font-size: 22px;
+}
+.ican_tag {
+    margin-right: 130px;
+}
+ 
